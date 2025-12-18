@@ -1,5 +1,5 @@
 # TANDEMLOOP – Stage 1 Screening Test
-Candidate Name: Dinesh Kumar Boya  
+Name: Dinesh Kumar Boya  
 Coding Language Used: Python  
 
 ---
