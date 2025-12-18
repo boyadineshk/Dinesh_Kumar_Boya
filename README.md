@@ -1,2 +1,11 @@
-# Dinesh_Kumar_Boya
-I have completed the Stage-1 screening test by solving all four given problems using Python. Each problem is implemented in a separate file as per the specified format, focusing on basic logic, readability, and correctness. The solutions were tested locally and uploaded to a public GitHub repository for review.
+# TANDEMLOOP – Stage 1 Screening Test
+Candidate Name: Dinesh Kumar Boya  
+Coding Language Used: Python  
+
+---
+
+## Files
+- Problem-1.py
+- Problem-2.py
+- Problem-3.py
+- Problem-4.py
